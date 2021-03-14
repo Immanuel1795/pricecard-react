@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pricecard-react/static/css/main.b37ffbd3.chunk.css",
+    "main.js": "/pricecard-react/static/js/main.c3dbd4ae.chunk.js",
+    "main.js.map": "/pricecard-react/static/js/main.c3dbd4ae.chunk.js.map",
+    "runtime-main.js": "/pricecard-react/static/js/runtime-main.83572f70.js",
+    "runtime-main.js.map": "/pricecard-react/static/js/runtime-main.83572f70.js.map",
+    "static/js/2.dcb1780a.chunk.js": "/pricecard-react/static/js/2.dcb1780a.chunk.js",
+    "static/js/2.dcb1780a.chunk.js.map": "/pricecard-react/static/js/2.dcb1780a.chunk.js.map",
+    "static/js/3.5476a2a8.chunk.js": "/pricecard-react/static/js/3.5476a2a8.chunk.js",
+    "static/js/3.5476a2a8.chunk.js.map": "/pricecard-react/static/js/3.5476a2a8.chunk.js.map",
+    "index.html": "/pricecard-react/index.html",
+    "static/css/main.b37ffbd3.chunk.css.map": "/pricecard-react/static/css/main.b37ffbd3.chunk.css.map",
+    "static/js/2.dcb1780a.chunk.js.LICENSE.txt": "/pricecard-react/static/js/2.dcb1780a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83572f70.js",
+    "static/js/2.dcb1780a.chunk.js",
+    "static/css/main.b37ffbd3.chunk.css",
+    "static/js/main.c3dbd4ae.chunk.js"
+  ]
+}
